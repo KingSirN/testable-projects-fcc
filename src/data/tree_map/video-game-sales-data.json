@@ -1,11 +1,12 @@
+#Video Game Sales Data Top 100
 {
-    "name": "Video Game Sales Data Top 100",
+    "category_name": "Arcade"
     "children": [{
-            "name": "2600",
+            "name": "Arcade",
             "children": [{
                 "name": "Pac-Man",
-                "category": "2600",
-                "value": "7.81"
+                "category": "Arcade",
+                "value": 7.81
             }]
         },
         {
@@ -13,77 +14,77 @@
             "children": [{
                     "name": "Wii Sports",
                     "category": "Wii",
-                    "value": "82.53"
+                    "value": 82.53
                 },
                 {
                     "name": "Mario Kart Wii",
                     "category": "Wii",
-                    "value": "35.52"
+                    "value": 35.52
                 },
                 {
                     "name": "Wii Sports Resort",
                     "category": "Wii",
-                    "value": "32.77"
+                    "value": 32.77
                 },
                 {
                     "name": "Wii Play",
                     "category": "Wii",
-                    "value": "28.92"
+                    "value": 28.92
                 },
                 {
                     "name": "New Super Mario Bros. Wii",
                     "category": "Wii",
-                    "value": "28.32"
+                    "value": 28.32
                 },
                 {
                     "name": "Wii Fit",
                     "category": "Wii",
-                    "value": "22.7"
+                    "value": 22.7
                 },
                 {
                     "name": "Wii Fit Plus",
                     "category": "Wii",
-                    "value": "21.79"
+                    "value": 21.79
                 },
                 {
                     "name": "Super Smash Bros. Brawl",
                     "category": "Wii",
-                    "value": "12.84"
+                    "value": 12.84
                 },
                 {
                     "name": "Super Mario Galaxy",
                     "category": "Wii",
-                    "value": "11.35"
+                    "value": 11.35
                 },
                 {
                     "name": "Just Dance 3",
                     "category": "Wii",
-                    "value": "10.12"
+                    "value": 10.12
                 },
                 {
                     "name": "Just Dance 2",
                     "category": "Wii",
-                    "value": "9.44"
+                    "value": 9.44
                 },
                 {
                     "name": "Wii Party",
                     "category": "Wii",
-                    "value": "8.38"
+                    "value": 8.38
                 },
                 {
                     "name": "Mario Party 8",
                     "category": "Wii",
-                    "value": "8.27"
+                    "value": 8.27
                 },
                 {
                     "name": "Mario & Sonic at the Olympic Games",
                     "category": "Wii",
-                    "value": "7.99"
+                    "value": 7.99
                 },
                 {
                     "name": "Super Mario Galaxy 2",
                     "category": "Wii",
-                    "value": "7.51"
+                    "value": 7.51
                 }
             ]
         },
@@ -92,22 +93,22 @@
             "children": [{
                     "name": "Super Mario Bros.",
                     "category": "NES",
-                    "value": "40.24"
+                    "value": 40.24
                 },
                 {
                     "name": "Duck Hunt",
                     "category": "NES",
-                    "value": "28.31"
+                    "value": 28.31
                 },
                 {
                     "name": "Super Mario Bros. 3",
                     "category": "NES",
-                    "value": "17.28"
+                    "value": 17.28
                 },
                 {
                     "name": "Super Mario Bros. 2",
                     "category": "NES",
-                    "value": "7.46"
+                    "value": 7.46
                 }
             ]
         },
@@ -116,32 +117,32 @@
             "children": [{
                     "name": "Pokemon Red/Pokemon Blue",
                     "category": "GB",
-                    "value": "31.37"
+                    "value": 31.37"
                 },
                 {
                     "name": "Tetris",
                     "category": "GB",
-                    "value": "30.26"
+                    "value": 30.26
                 },
                 {
                     "name": "Pokemon Gold/Pokemon Silver",
                     "category": "GB",
-                    "value": "23.1"
+                    "value": 23.1
                 },
                 {
                     "name": "Super Mario Land",
                     "category": "GB",
-                    "value": "18.14"
+                    "value": 18.14
                 },
                 {
                     "name": "Pokémon Yellow: Special Pikachu Edition",
                     "category": "GB",
-                    "value": "14.64"
+                    "value": 14.64
                 },
                 {
                     "name": "Super Mario Land 2: 6 Golden Coins",
                     "category": "GB",
-                    "value": "11.18"
+                    "value": 11.18
                 }
             ]
         },
@@ -150,12 +151,12 @@
             "children": [{
                     "name": "New Super Mario Bros.",
                     "category": "DS",
-                    "value": "29.8"
+                    "value": 29.8
                 },
                 {
                     "name": "Nintendogs",
                     "category": "DS",
-                    "value": "24.67"
+                    "value": 24.67
                 },
                 {
                     "name": "Mario Kart DS",
